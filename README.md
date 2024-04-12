@@ -3,7 +3,7 @@ This repository contains insights derived from data analysis of E-commerce. The 
 
 PROJECT LINK: 1) https://drive.google.com/file/d/1wJUSbtMVOvWOhxm1cdpcWNE_WdYXbFc1/view?usp=drive_link
                2) https://drive.google.com/file/d/11WB-JR4rR86mwOc0WgFbzvdJB1WSJJmt/view?usp=drive_link
-                3) https://docs.google.com/spreadsheets/d/10d90IHcxLPJZ_luckYI5NMRshhpreN8A/edit?usp=drive_link&ouid=105322565497604585898&rtpof=true&sd=true
+                   3) https://docs.google.com/spreadsheets/d/10d90IHcxLPJZ_luckYI5NMRshhpreN8A/edit?usp=drive_link&ouid=105322565497604585898&rtpof=true&sd=true
               
 Key insights include:
 
