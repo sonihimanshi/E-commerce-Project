@@ -1,6 +1,10 @@
 # E-commerce-Project
 This repository contains insights derived from data analysis of E-commerce. The dataset includes various metrics and observations, providing valuable insights into customer behavior, payment trends, delivery performance, and review scores.
 
+PROJECT LINK: https://drive.google.com/file/d/1wJUSbtMVOvWOhxm1cdpcWNE_WdYXbFc1/view?usp=drive_link
+              https://drive.google.com/file/d/11WB-JR4rR86mwOc0WgFbzvdJB1WSJJmt/view?usp=drive_link
+              https://docs.google.com/spreadsheets/d/10d90IHcxLPJZ_luckYI5NMRshhpreN8A/edit?usp=drive_link&ouid=105322565497604585898&rtpof=true&sd=true
+              
 Key insights include:
 
 Distribution of payments: Weekdays account for the majority of payments, indicating potential opportunities for targeted marketing efforts.
